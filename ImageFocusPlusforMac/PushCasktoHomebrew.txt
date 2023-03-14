@@ -1,2 +1,2 @@
-brew tap-new username/repo-name
-brew create https://github.com/username/repo-name/raw/main/Casks/cask-name.rb --tap=username/repo-name
+brew tap-new bendelaat/cask.git &&
+brew create https://github.com/bendelaat/cask/blob/b93bfff2010d19420069517a51004af4f5e826f1/ImageFocusPlusforMac/ImageFocusPlusforMac.rb --tap=bendelaat/cask.git
