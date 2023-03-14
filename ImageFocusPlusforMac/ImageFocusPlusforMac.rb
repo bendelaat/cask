@@ -6,4 +6,4 @@ cask "ImageFocusPlusforMac" do
     desc "Microscopy camera app fro Euromex CMEX USB 2.0 cameras"
     app "ImageFocusPlusForMac.app"
   end
-  
+    
